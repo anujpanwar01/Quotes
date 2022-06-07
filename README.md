@@ -1,2 +1,2 @@
 # Quotes
-Created with CodeSandbox
+Add your quotes to our site
